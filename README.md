@@ -17,7 +17,9 @@ Solución:
 Dificultades:
 
 Crear el archivo jar
+
 Agregar los filtros
+
 Estar bloqueando y activando permisos
 
 
@@ -106,3 +108,8 @@ Inicio de sesión con el rol productos:
 Prohibiciones de el rol de productos en el panel Almacenes:
 
 <img width="1022" height="889" alt="image" src="https://github.com/user-attachments/assets/bb072548-71f4-4d11-833b-017139c41b8f" />
+
+
+Conclusión:
+
+Aprendí nuevas cosas que no conocía y reforcé conceptos fundamentales de programación, diseño de interfaces, manejo de datos, SQL, Listeners. Esta actividad me ayudará a mejorar en mis futuros proyectos como desarrollador.
