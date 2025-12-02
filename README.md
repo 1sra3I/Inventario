@@ -14,7 +14,6 @@ Solución:
 <img width="1191" height="744" alt="image" src="https://github.com/user-attachments/assets/72b4b106-4fde-4390-bff5-2e6f4866d6ac" />
 
 
-
 Dificultades:
 
 Crear el archivo jar
@@ -27,7 +26,6 @@ Implementacion:
 Inicio de sesión el rol de Admin:
 
 <img width="1021" height="887" alt="image" src="https://github.com/user-attachments/assets/9054d6b0-34dc-45f6-9ca1-cc06608d135e" />
-
 
 
 Panel Almacenes:
