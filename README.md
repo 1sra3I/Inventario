@@ -7,7 +7,7 @@ Link de la presentacion: https://www.canva.com/design/DAG6Uup5Kqg/Lv0W8-htv_BJ76
 
 Introduccion:
 
-Realiza un sistema de inventario con interfaces el cual puede agregar, modificar y eliminar productos y almacenes, gestionados por los roles del usuario y conectado a una base de datos
+Este trabajo fue desarrollado en el 3er semestre. Realiza un sistema de inventario con interfaces el cual puede agregar, modificar y eliminar productos y almacenes, gestionados por los roles del usuario y conectado a una base de datos
 
 
 Solución:
