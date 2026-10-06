@@ -1,5 +1,6 @@
 # Inventario
 
+Hecho por: Israel Moreno Lopez
 
 Link de la presentacion: https://www.canva.com/design/DAG6Uup5Kqg/Lv0W8-htv_BJ76oKNhQqJw/edit?utm_content=DAG6Uup5Kqg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
